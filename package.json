@@ -1,0 +1,23 @@
+{
+  "name": "fsfp-homework-9-word-guess",
+  "version": "1.0.0",
+  "description": "Full Stack Flex Program Homework 9: Word Guess",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jabeldmc/fsfp-homework-9-word-guess.git"
+  },
+  "keywords": [],
+  "author": "jabeldmc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jabeldmc/fsfp-homework-9-word-guess/issues"
+  },
+  "homepage": "https://github.com/jabeldmc/fsfp-homework-9-word-guess#readme",
+  "dependencies": {
+    "request": "2.88.0"
+  }
+}
