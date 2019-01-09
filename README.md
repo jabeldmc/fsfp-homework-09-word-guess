@@ -5,7 +5,7 @@ Full Stack Flex Program Homework 9: Word Guess
 
 # Introduction
 
-This is a command-line word game. The game randomly picks a word from the dictionary provided in file `words.txt`, and prompts the user to guess a letter in the word.
+This is a command-line word game. The game randomly selects a word from the dictionary provided in file `words.txt`, and prompts the user to guess a letter in the word.
 
 The game asks for letters until the user guesses all letters, or runs out of tries.
 
@@ -21,7 +21,7 @@ $ node index.js
 Or
 
 ```
-# npm run start
+$ npm run start
 ```
 
 
