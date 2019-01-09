@@ -4,7 +4,12 @@
   "description": "Full Stack Flex Program Homework 9: Word Guess",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "mon-Letter": "nodemon test-Letter.js",
+    "mon-Word": "nodemon test-Word.js",
+    "mon-WordGame": "nodemon test-WordGame.js",
+    "mon": "nodemon index.js" ,
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +23,8 @@
   },
   "homepage": "https://github.com/jabeldmc/fsfp-homework-9-word-guess#readme",
   "dependencies": {
-    "request": "2.88.0"
+    "request": "2.88.0",
+    "nodemon": "1.18.9",
+    "inquirer": "6.2.1"
   }
 }
